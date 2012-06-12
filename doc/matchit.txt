@@ -2,7 +2,7 @@
 
 For instructions on installing this file, type
 	:help matchit-install
-inside Vim.
+inside Vim..
 
 For Vim version 6.3.  Last change:  2007 Aug 29
 
